@@ -1,3 +1,5 @@
 This is an implementation of an Objective-J lexer for Pygments.
 
 To use it, just install the package using easy_install and then run Pygments as usual.
+
+NOTE: This work is placed in the public domain by Fish Software, Inc.
