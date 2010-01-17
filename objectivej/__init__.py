@@ -1,3 +1,12 @@
+"""
+    Portions of this file are covered under the following license:
+    
+    :copyright: Copyright 2006-2010 by the Pygments team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+
+    The rest of the work is placed in the public domain by Fish Software, Inc.
+"""
+
 import re
 
 from pygments.lexer import Lexer, DelegatingLexer, RegexLexer, bygroups, \
